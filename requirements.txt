@@ -1,0 +1,4 @@
+h5py numpy==1.26.0 setuptools six wrapt wheel==0.40.0 rich markdown
+selenium==4.25.0
+beautifulsoup4==4.12.3
+beautifulsoup4 lxml
